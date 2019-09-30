@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/y2mate.com - killercats_tell_me_feat_alex_skrindo_ncs_release_besNDPvEwQw.ogg-6c52ab90749684995f147fd07106aa51.oggstr"
+
+[deps]
+
+source_file="res://art/y2mate.com - killercats_tell_me_feat_alex_skrindo_ncs_release_besNDPvEwQw.ogg"
+dest_files=[ "res://.import/y2mate.com - killercats_tell_me_feat_alex_skrindo_ncs_release_besNDPvEwQw.ogg-6c52ab90749684995f147fd07106aa51.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
